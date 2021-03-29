@@ -1,0 +1,37 @@
+{
+  "name": "iso-countries",
+  "version": "1.0.0",
+  "description": "Switch country name for ISO code and vice versa",
+  "scripts": {
+    "test": "jest",
+    "tidy": "eslint src  --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markogrady1/iso-countries"
+  },
+  "keywords": [
+    "iso",
+    "ISO-3166",
+    "ISO3166",
+    "country",
+    "country-code",
+    "country code",
+    "iso code"
+  ],
+  "author": "Mark O Grady <markogrady18@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "src/"
+  ],
+  "devDependencies": {
+    "eslint": "^7.23.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.3.1",
+    "jest": "^26.6.3"
+  }
+}
