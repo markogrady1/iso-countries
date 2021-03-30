@@ -1,5 +1,5 @@
 {
-  "name": "iso-countries",
+  "name": "iso-country-map",
   "version": "1.0.0",
   "description": "Switch country name for ISO code and vice versa",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/markogrady1/iso-countries"
+    "url": "https://github.com/markogrady1/iso-country-map"
   },
   "keywords": [
     "iso",

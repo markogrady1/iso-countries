@@ -1,4 +1,4 @@
-# iso-countries
+# iso-country-map
 
 Get an ISO (Alpha 2 or Alpha 3) code for a given country name, or get a country name for a given ISO code (Alpha 2 or Alpha 3).
 
@@ -6,14 +6,14 @@ Get an ISO (Alpha 2 or Alpha 3) code for a given country name, or get a country 
 ### Installation
 
 ```
-npm install iso-countries
+npm install iso-country-map
 ```
 
 
 ### Usage
 
 ```
-const isoCountry = require('iso-countries');
+const isoCountry = require('iso-country-map');
 ```
 
 Get ISO Alpha 2 value for a given country name
@@ -43,7 +43,7 @@ isoCountry('CAN', 'name'); // RESULT: Canada
 Clone repository
 
 ```
-git clone https://github.com/markogrady1/iso-countries.git
+git clone https://github.com/markogrady1/iso-country-map.git
 ```
 Run tests
 
