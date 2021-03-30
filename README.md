@@ -38,5 +38,20 @@ isoCountry('CA', 'name'); // RESULT: Canada
 isoCountry('CAN', 'name'); // RESULT: Canada
 ```
 
+### Development
 
+Clone repository
 
+```
+git clone https://github.com/markogrady1/iso-countries.git
+```
+Run tests
+
+```
+npm run test
+```
+Run eslint
+
+```
+npm run tidy
+```
