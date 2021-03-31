@@ -1,6 +1,6 @@
 {
   "name": "iso-country-map",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Switch country name for ISO code and vice versa",
   "scripts": {
     "test": "jest",
@@ -12,6 +12,8 @@
   },
   "keywords": [
     "iso",
+    "iso-country",
+    "country-iso",
     "ISO-3166",
     "ISO3166",
     "country",
